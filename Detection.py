@@ -1,5 +1,6 @@
 #Libs
-import cv2, numpy, os, argparse
+import cv2
+import numpy, os, argparse
 
 #built in haarscascade_frontalface...
 '''cv2_base_dir = os.path.dirname(os.path.abspath(cv2.__file__))
